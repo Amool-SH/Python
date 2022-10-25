@@ -8,5 +8,7 @@ The catchment area of the project is 307 Km<sup>2</sup>. The site is about 230 K
 | S.No. | Features | Description |
 |-------|:--------:| ----------: |
 |   1.  |Type      |Cascade Pondage ROR|
+|   1.  |Carchment area|307 km<sup>2</sup>|
+
 
 
