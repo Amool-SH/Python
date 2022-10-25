@@ -6,6 +6,7 @@ Likhu 2 HEP is located in Gumdel and Bhakanje VDCs of Ramechhap district and Sol
 The catchment area of the project is 307 Km<sup>2</sup>. The site is about 230 Km from the capital of Nepal.
 
 | S.No. | Features | Description |
-|-------|:--------:| ----------: |
+
+|   1.  |Type      |Cascade Pondage ROR|
 
 
