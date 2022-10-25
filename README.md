@@ -23,6 +23,6 @@ Along the river many similar projects are being built.
 * Likhu 1 Hydropower Project
 * Likhu A Hydropower Project
 
-For more information, click[me][1]
+For more information, click [me][1]
 
 [1]: https://www.culturalsurvival.org/news/hydropower-projects-likhu-river-fail-obtain-consent-indigenous-communities-nepal
